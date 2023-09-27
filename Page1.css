@@ -1,0 +1,176 @@
+header
+{
+    margin-top: 0px;
+}
+#navList li 
+{
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 10%;
+}
+#navList li a:hover
+{
+    background-color: rgb(170, 156, 184)
+}
+#navList li a
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    border-radius: 40px;
+}
+#nav
+{
+    padding-top: 1px;
+    padding-bottom:3px;
+    text-align: center;
+    height: 3pc;
+}
+body
+{
+    background-color:rgb(215, 215, 215);
+}
+.container
+{
+    background-color: rgba(255, 255, 255, 0.668);
+        text-align: center;
+        font-family: arial;
+        font-size: 24px;
+        margin-left: 30%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: 40%;
+        height: 100%;
+        /* outline: solid 1px black; */
+        border-radius: 1pc;
+        padding: 6px;
+}
+#gyaan
+{
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 5%;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 170%;
+    text-align: center;
+}
+#gyaanKaBhandar
+{
+    display: inline;
+}
+#gyaan0
+{
+    position: relative;
+    top: 3px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 5%;
+    float: right;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 170%;
+    text-align: center;
+}
+#headQuiz
+{
+    /* margin-top: 20px; */
+    text-decoration: black underline dashed;
+}
+#takeText
+{
+    margin-top: 10px;
+}
+#infoBar
+{
+    text-align: center;
+    background-color: rgb(13, 39, 116);
+}
+#infoBar ul .ll
+{
+    display: inline-block;
+    font-size: 200%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#ll1
+{
+    padding-right: 20%;
+    border-right: dashed black;
+    border-width: 0.5px;
+}
+#ll2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 15%;
+    float: right;
+}
+#arrow
+{
+    width: 5%;
+}
+#ll1 ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#quote
+{
+    opacity: 100%;
+    width: 100%;
+    border-radius: 30px;
+}
+
+#justOne
+{
+    background-color: rgb(251, 251, 246);
+    border: solid black;
+    width: 30%;
+    margin-left: 30%;
+    height: 100%;
+    border-radius: 4cqh;
+    margin-top: 40px;
+    font-size: 150%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    padding-left: 10%;
+}
+#justOne input
+{
+    font-size: 10%;
+    width: 40%;
+    padding-left: 1.5%;
+    border-radius: 10px;
+    font-size: 130%;
+}
+#form1 img
+{
+    width: 5%;
+    float: right;
+}
+#whyQuiz
+{
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+    font-size: 200%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#headMental
+{
+    font-size: 300%;
+    text-align: center;
+}
+#submitButt
+{
+    font-size: 120%;
+    width: 35%;
+    margin-left: 15%;
+    border-radius: 60%;
+}
